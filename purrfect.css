@@ -1,0 +1,74 @@
+html{
+    
+    height: 100%;
+    
+}
+
+body {
+    
+    padding-top: 70px;
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(images/cat.jpg); 
+    background-size: cover;
+    color: #fff;
+    font-size: 16px;
+    
+}
+
+#header-content {
+    
+    text-align: center;
+    padding-top: 20%;
+}
+
+h1, h4 {
+    
+    text-shadow: 7px 7px 10px #000;
+}
+
+h1 {
+    
+    font-size: 5.4em;
+    font-weight: 300;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    
+}
+h4 {
+    
+    font-size: 1.5em;
+    font-weight: 200;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    
+}
+hr {
+    
+    width: 250px;
+    box-shadow: 5px 5px 5px #000;
+}
+.btn-default {
+    
+    background-color: #d4d4d4;
+    color: #000;
+    font-weight: 500;
+    box-shadow: 1px 1px 5px #000;
+    
+    
+}
+
+.navbar-inverse {
+    
+    background-color: #000;
+    
+}
+.navbar-inverse .navbar-nav>li>a {
+    
+    color: #c1c1c1;
+    
+}
+
+.navbar-inverse .navbar-brand {
+    
+    color: #c1c1c1;
+    
+}
